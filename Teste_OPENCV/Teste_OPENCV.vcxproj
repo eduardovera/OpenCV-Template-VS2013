@@ -156,6 +156,9 @@
     </ClCompile>
     <ClCompile Include="Teste_OPENCV.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\My Exported Templates\Teste_OPENCV.zip" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
