@@ -4,8 +4,7 @@
 #include "stdafx.h"
 #include <highgui.h>
 
-int _tmain(int argc, _TCHAR* argv[])
-{
+int main() {
 	int c;
 	IplImage *img;
 	CvCapture *capture = cvCaptureFromCAM(0);
@@ -21,4 +20,3 @@ int _tmain(int argc, _TCHAR* argv[])
 	}
 	return 0;
 }
-
