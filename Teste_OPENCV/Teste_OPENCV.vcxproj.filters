@@ -34,6 +34,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Teste_OPENCV.zip" />
+    <None Include="Teste_OPENCV_EIGEN.zip" />
   </ItemGroup>
 </Project>
